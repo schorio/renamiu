@@ -154,7 +154,9 @@ motifs = [  ".FRENCH.720p.AMZN.WEB-DL.DD5.1.H264-FRATERNiTY",
             "IMAX",
             "AC3",
             "FILM ENTIER",
-            "VOSTFR"
+            "VOSTFR",
+            ".ZT",
+            " ZT"
         ]
 
 annee = ["2010","2011","2012","2013","2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"]
