@@ -239,6 +239,11 @@ def renomage():
         newname_2 = "".join(filename.replace("épisode", "- Episode"))
         os.rename(filename, newname_2)
 
+    # Remplacer
+    for filename in os.listdir(dossier):
+        newname_2 = "".join(filename.replace("episode", "- Episode"))
+        os.rename(filename, newname_2)
+
 
     # Affecter les extensions
     for k in extensions:
