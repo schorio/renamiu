@@ -7,6 +7,7 @@ Un petit script pour renommée les fichiers vidéos (séries et films) télécha
     <li>Git</li>
     <li> Python</li>
 </ul>
+
 ## Execution du script
 
 <ol type="1">
