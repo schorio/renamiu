@@ -1,6 +1,8 @@
 # Renamiu
 ## Description
-Un petit script pour renommé les fichiers vidéos (séries et films) télécharger sur les sites torrents.
+Un petit script pour renommé les fichiers vidéos (séries et films) télécharger sur les sites torrents. <br>
+Exemple : DCs.Legends.of.Tomorrow.S05E01.FRENCH.LD.BDRip.x264-FRATERNiTY.mkv <br>
+Resultat : DCs Legends of Tomorrow - Saison 5 - Episode 01.mkv
 
 ## Dépendance
 <ul>
