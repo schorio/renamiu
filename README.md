@@ -1,6 +1,6 @@
 # Renamiu
 ## Description
-Un petit script pour renommée les fichiers vidéos (séries et films) télécharger sur les sites torrents.
+Un petit script pour renommé les fichiers vidéos (séries et films) télécharger sur les sites torrents.
 
 ## Dépendance
 <ul>
