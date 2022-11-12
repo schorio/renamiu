@@ -180,7 +180,7 @@ motifs = [  ".FRENCH.720p.AMZN.WEB-DL.DD5.1.H264-FRATERNiTY",
 
 annee = ["2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"]
 
-extensions = [" mp4", " MP4", " avi", "AVI", " mkv", "MKV", " py", "PY", " ts", " TS", " txt", " TXT", " mpg", " MPG", " mpeg", "MPEG"]
+extensions = [" mp4", " MP4", " avi", " AVI", " mkv", " MKV", " py", " PY", " ts", " TS", " txt", " TXT", " mpg", " MPG", " mpeg", "MPEG"]
 
 
 def renomage():
