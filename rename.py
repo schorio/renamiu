@@ -216,13 +216,22 @@ def renomage():
 
     # Remplacer
     for filename in os.listdir(dossier):
-        newname_2 = "".join(filename.replace("E", " - Episode "))
+        newname_2 = "".join(filename.replace("E0", " - Episode "))
         os.rename(filename, newname_2)
-
 
     # Remplacer
     for filename in os.listdir(dossier):
-        newname_2 = "".join(filename.replace("e0", "- Episode "))
+        newname_2 = "".join(filename.replace("E1", " - Episode "))
+        os.rename(filename, newname_2)
+
+    # Remplacer
+    for filename in os.listdir(dossier):
+        newname_2 = "".join(filename.replace("e0", " - Episode "))
+        os.rename(filename, newname_2)
+
+    # Remplacer
+    for filename in os.listdir(dossier):
+        newname_2 = "".join(filename.replace("e1", " - Episode "))
         os.rename(filename, newname_2)
 
     # Remplacer
