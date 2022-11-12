@@ -14,6 +14,8 @@ motifs = [  ".FRENCH.720p.AMZN.WEB-DL.DD5.1.H264-FRATERNiTY",
             ".FRENCH.1080p.NF.WEB.H264-F5K",
             ".US",
             " US",
+            "-FRATERNiTY",
+            " FRATERNiTY"
             " 1080p",
             " MULTi",
             " W",
