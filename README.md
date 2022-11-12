@@ -10,8 +10,8 @@ Un petit script pour renommée les fichiers vidéos (séries et films) télécha
 ## Execution du script
 
 <ol type="1">
-    <li> Telecharger le fichier principal</li> 
-    <li> Copier le fichier "rename.py" dans le </li> dossier cible (le dossier contenant les fichiers a renomer) <br>
+    <li> Git cloner le repo</li> 
+    <li> Copier le fichier "rename.py" dans le </li> dossier cible (le dossier contenant les fichiers à renomer) <br>
     <li> Executer le fichier ".py" </li>
         <ul>
             <li> Double clique (pour windows) </li>
