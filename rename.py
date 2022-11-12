@@ -167,6 +167,8 @@ motifs = [  ".FRENCH.720p.AMZN.WEB-DL.DD5.1.H264-FRATERNiTY",
             ".ZT",
             " ZT",
             ".ZL",
+            ".french",
+            " french",
             " ZL"
         ]
 
