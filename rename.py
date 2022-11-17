@@ -60,6 +60,8 @@ motifs = [  ".FRENCH.720p.AMZN.WEB-DL.DD5.1.H264-FRATERNiTY",
             "TRUEFRENCH",
             "-Wawacity.ninja",
             " Wawacity.ninja",
+            "-Wawacity.red"
+            " Wawacity.red",
             ".Lio",
             "Lio",
             "- Film COMPLET en Français (Romance, Comédie)",
